@@ -3,7 +3,7 @@ package com.study.api.service;
 import org.springframework.stereotype.Service;
 
 @Service
-public class TestService {
+public class CustomerService {
 
 
 }

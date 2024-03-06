@@ -1,4 +1,0 @@
-package com.study.api.entity;
-
-public class TestBean {
-}
